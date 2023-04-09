@@ -1,6 +1,6 @@
 [submodule "CipherSchool-Backend"]
 	path = CipherSchool-Backend
 	url = https://github.com/prince2520/CipherSchool-Backend.git
-[submodule "animeSuper-frontend"]
-	path = animeSuper-frontend
-	url = https://github.com/prince2520/animeSuper-frontend.git
+[submodule "CipherSchool-Frontend"]
+	path = CipherSchool-Frontend
+	url = https://github.com/prince2520/CipherSchool-Frontend.git
